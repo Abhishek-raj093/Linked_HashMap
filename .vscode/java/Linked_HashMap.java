@@ -16,3 +16,4 @@ public class Linked_HashMap {
         System.out.println(lhm);//it will print keys and values in order and the order wo ha jis ma hum na insert kiya h
     }
 }
+// How Are you as 
